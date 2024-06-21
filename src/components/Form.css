@@ -1,0 +1,42 @@
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 30px;
+  width: 300px;
+  margin: auto;
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+}
+
+.topDiv {
+  margin-top: 2%;
+}
+
+.simpleForm {
+  text-align: center;
+  color: blue;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+select,
+button {
+  padding: 8px;
+  margin-top: 5px;
+}
+
+p {
+  color: yellow;
+  font-size: 12px;
+  margin-top: 5px;
+}
